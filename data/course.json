@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ]
+  ],
+  "legacy_uid": "4731efe4-0af6-cfe8-14be-ef703668e412",
+  "instructors": {
+    "content": [
+      "a64885d8-26dd-b95d-e900-92821b2b75f7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "580be785-2b1c-068c-755e-d133dba03ac8",
+    "website": "21w-747-2-rhetoric-rhetoric-of-science-spring-2006"
+  },
+  "course_title": "Rhetoric: Rhetoric of Science",
+  "hide_download": true,
+  "course_description": "This course is an introduction to the history, theory, practice, and implications of rhetoric, the art and craft of persuasion. This course specifically focuses on the ways that scientists use various methods of persuasion in the construction of scientific knowledge.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.747-2",
+  "course_image_thumbnail": {
+    "content": "f62262fd-5038-3a56-0cd1-4016c411e48e",
+    "website": "21w-747-2-rhetoric-rhetoric-of-science-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "703c5c00-5f9c-4dfc-a4ad-2bd4adad775f",
+  "site_short_id": "21w.747-2-spring-2006",
+  "site_url_path": "courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006",
+  "title": "Course Metadata"
+}
